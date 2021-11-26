@@ -1,0 +1,1 @@
+:root{--color1:#4b0000;--color2:#7e0202;--color3:#888;--color4:#aaa;--color5:#f1e1b4;--colorpolice:#222;--colorbg:rgba(136,136,136,.8)}main{grid-area:mn;padding:0 2em;margin-bottom:3em}article{background:var(--color3);padding:1em 1em .5em 1em;margin:2em 0}article p{margin:1em 0 2em 1em;padding:0 1em;text-align:justify;border-left:3px solid var(--color1)}
